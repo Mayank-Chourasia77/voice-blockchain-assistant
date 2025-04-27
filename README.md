@@ -21,6 +21,15 @@ Follow the steps below to set up the project on your local machine.
 
 ### Step 1: Clone the Repository
 
-### Step 2: Install Dependencies
+### step 2: Install dependencies
+`npm install
+`
+### Step 3: Configure API Keys
 
+### Step 4: Run the Application
+`npm run dev
+`
+
+
+This will start the server and make the application available at http://localhost.
 
